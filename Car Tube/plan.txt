@@ -1,0 +1,47 @@
+[x] Unpack project and install dependencies
+[x] Copy index.html !!!
+[ ] Create app entry point with placeholder handlers
+[ ] Implement rendering dependency injection and create placeholder views
+
+Implement views
+-- Home--
+[ ] Reading functionality in REST service
+[ ] Template and view control
+
+--Catalog--
+[ ] Extend reading functionality in REST service
+[ ] Template and view control
+
+--Login, Register and Logout--
+[ ] Create User service
+[ ] Template and view control
+[ ] Submitting form and error handling
+[ ] Logout from nav-bar
+
+--Navigation header--
+[ ] Session middleware
+[ ] Extend Rendering middleware
+[ ] Template and view control
+
+--Create--
+[ ] Writing functionality in REST service
+[ ] Template and view control
+[ ] Submitting form and error handling
+
+--Details--
+[ ] Extend reading functionality in REST service
+[ ] Template and view control
+
+--Edit and Delete--
+[ ] Extend reading functionality in REST service
+[ ] Template and view control
+[ ] Submitting form and error handling
+
+--Bonus: Comments--
+[ ] Create Comment service
+[ ] Template and view control
+[ ] Submitting form and error handling
+
+
+
+
